@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// Made a variable that is titled name which is equivilent to Dane
+// Made a conditional which changed the variables equivilant to Mary
+// If name is equivilent to Mary a log is made by in console by conditional which says 'Hi,Mary!'
+//If name isn't equivilent to Mary log is made in console by conditional which says 'How do you do?'
 
 //CODE
 /*
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// created variable that is titled secret
+// created variable that is title code which is equivilent to 123
+// created conditional that makes secret equivilent to 'super' and made code equivilant to 123 times/multiplied by 2 if code is equivilent to 123.
+// created conditional that makes secret eqivilent to duper if code is greater than 250 Which it isn't. Created console log of secret which should state super.
 
 //CODE
 /*
@@ -70,10 +70,10 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// Variables were established, isStudent which is equal to true, age which is equal to 34, and zip which is equal to 55407.
+// created a onditional console logs 'You're a student on the West Coast!' if isStudent is equal to true and zip is greater than 80000.
+// conditional console logs 'what are you're hobbies?' if is student is false and age is less than 30.
+// conditional console logs welcome to prime if isStudent is true and console logs 'How about the weather?' of student is false.
 
 //CODE
 /*
@@ -127,7 +127,7 @@ if (number >= 2) {
 
 //4. We start with three variables -- colorOne is set to 'blue' and 
 // colorTwo is set to 'red', and mix is set to true. We check if mix is true 
-// -- it is, so we set colorOne and colorTwo to 'purple'
+// -- it is, so we set colorOne and colorTwo to 'purple'  
 
 /*
 let colorOne = 'red';
@@ -137,7 +137,7 @@ let mix = true;
 if (mix === true) {
   colorOne = 'purple';
 }
-*/
+*colorOne is supposed to be 'blue' while colorTwo is supposed to be 'red'. Solution is to make colorOne equal to red and to make colorTwo equal to blue.
 
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
 // We check if temp is higher than 39 and if time is greater or equal to  4 
@@ -150,7 +150,7 @@ const time = 4;
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
-*/
+*Time shouldn't be a const since it changes. Use let instead of const to establish time.
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
 // We check if age is greater than or equal to minAge 
@@ -165,5 +165,6 @@ if(minAge <= age) {
 } else {
   console.log('enter');
 }
-*/
+* Else should be no entry. Solution is to change entry to the first console log of the boolean and no entry to the second console log after else in the boolean.
+
 
