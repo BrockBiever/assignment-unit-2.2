@@ -27,7 +27,7 @@ if (number >= 2) {
 
 // 1. WRITE YOUR DESCRIPTION HERE
 // Made a variable that is titled name which is equivilent to Dane
-// Made a conditional which changed the variables equivilant to Mary
+// Made a conditional which checks if name is equal to mary.
 // If name is equivilent to Mary a log is made by in console by conditional which says 'Hi,Mary!'
 //If name isn't equivilent to Mary log is made in console by conditional which says 'How do you do?'
 
@@ -73,7 +73,7 @@ console.log(secret)
 // Variables were established, isStudent which is equal to true, age which is equal to 34, and zip which is equal to 55407.
 // created a onditional console logs 'You're a student on the West Coast!' if isStudent is equal to true and zip is greater than 80000.
 // conditional console logs 'what are you're hobbies?' if is student is false and age is less than 30.
-// conditional console logs welcome to prime if isStudent is true and console logs 'How about the weather?' of student is false.
+// conditional console logs welcome to prime if isStudent is true and console logs 'How about the weather?' of student is false. Results in stating 'you're a student on the west coast!' 'Welcome to Prime!'
 
 //CODE
 /*
@@ -165,6 +165,5 @@ if(minAge <= age) {
 } else {
   console.log('enter');
 }
-* Else should be no entry. Solution is to change entry to the first console log of the boolean and no entry to the second console log after else in the boolean.
-
+* minAge should be switched with age in if conditional or console logs could be switched.
 
