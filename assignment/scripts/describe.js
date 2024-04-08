@@ -165,5 +165,5 @@ if(minAge <= age) {
 } else {
   console.log('enter');
 }
-* minAge should be switched with age in if conditional or console logs could be switched.
+* This isn't how minimum ages should work.These are the possible solutions, minAge should be switched with age in if conditional, console logs could be switched, or greater than symbol should replace less than symbol.
 
