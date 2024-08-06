@@ -26,13 +26,12 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-//
-//
-//
-//
-//
+// Made a variable that is titled name which is equivilent to Dane
+// Made a conditional which checks if name is equal to mary.
+// If name is equivilent to Mary a log is made by in console by conditional which says 'Hi,Mary!'
+//If name isn't equivilent to Mary log is made in console by conditional which says 'How do you do?'
+
+
 
 //CODE
 /*
@@ -48,11 +47,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
-
+// created variable that is titled secret
+// created variable that is title code which is equivilent to 123
+// created conditional that makes secret equivilent to 'super' and made code equivilant to 123 times/multiplied by 2 if code is equivilent to 123.
+// created conditional that makes secret eqivilent to duper if code is greater than 250 Which it isn't. Created console log of secret which should state super.
 //CODE
 /*
 let secret;
@@ -73,10 +71,10 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// Variables were established, isStudent which is equal to true, age which is equal to 34, and zip which is equal to 55407.
+// created a conditional console logs 'You're a student on the West Coast!' if isStudent is equal to true and zip is greater than 80000.
+// conditional console logs 'what are you're hobbies?' if is student is false and age is less than 30.
+// conditional console logs welcome to prime if isStudent is true and console logs 'How about the weather?' of student is false. Results in stating 'you're a student on the west coast!' 'Welcome to Prime!'
 
 //CODE
 /*
@@ -125,6 +123,7 @@ if (number >= 2) {
 }
 
 */
+//.colorOne is supposed to be 'blue' while colorTwo is supposed to be 'red'. Solution is to make colorOne equal to red and to make colorTwo equal to blue.
 
 
 
@@ -146,6 +145,10 @@ if (mix === true) {
 // We check if temp is higher than 39 and if time is greater or equal to  4 
 // -- they are so we console.log 'throw away the food!'
 
+
+//Never made a else statement for keeping the food so you should write a else statement that console logs keeping the food.
+//Time shouldn't be a const since it changes. Use let instead of const to create time variable.
+
 /*
 let temp = 40;
 const time = 4;
@@ -158,6 +161,8 @@ if (temp > 39 || time >= 4) {
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
 // We check if age is greater than or equal to minAge 
 // -- it is, so we console.log 'enter'.
+
+// Wrote results of if statement in reverse. minAge should be switched with age in if conditional or console logs could be switched.
 
 /*
 let age = 21;
