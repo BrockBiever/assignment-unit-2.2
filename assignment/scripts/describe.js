@@ -28,8 +28,8 @@ if (number >= 2) {
 // 1. WRITE YOUR DESCRIPTION HERE
 // Made a variable that is titled name which is equivilent to Dane
 // Made a conditional which checks if name is equal to mary.
-// If name is equivilent to Mary a log is made by in console by conditional which says 'Hi,Mary!'
-//If name isn't equivilent to Mary log is made in console by conditional which says 'How do you do?'
+// If name is equivilent to Mary a log is made  in console which says 'Hi,Mary!'
+//If name isn't equivilent to Mary log is made in console which says 'How do you do?'
 
 
 
@@ -73,8 +73,8 @@ console.log(secret)
 // 3. WRITE YOUR DESCRIPTION HERE
 // Variables were established, isStudent which is equal to true, age which is equal to 34, and zip which is equal to 55407.
 // created a conditional console logs 'You're a student on the West Coast!' if isStudent is equal to true and zip is greater than 80000.
-// conditional console logs 'what are you're hobbies?' if is student is false and age is less than 30.
-// conditional console logs welcome to prime if isStudent is true and console logs 'How about the weather?' of student is false. Results in stating 'you're a student on the west coast!' 'Welcome to Prime!'
+// conditional console logs 'what are you're hobbies?' if isStudent is false and age is less than 30.
+// conditional console logs "welcome to prime!" if isStudent is true and console logs 'How about the weather?' of student is false. Results should be a console log of 'Welcome to Prime!'
 
 //CODE
 /*
@@ -124,6 +124,7 @@ if (number >= 2) {
 
 */
 //.colorOne is supposed to be 'blue' while colorTwo is supposed to be 'red'. Solution is to make colorOne equal to red and to make colorTwo equal to blue.
+// colorTwo should now equal purple but thats missing. add (colorTwo = purple) for if mix is true results.
 
 
 
@@ -148,6 +149,7 @@ if (mix === true) {
 
 //Never made a else statement for keeping the food so you should write a else statement that console logs keeping the food.
 //Time shouldn't be a const since it changes. Use let instead of const to create time variable.
+// code is missing a && instead has a or. Solution is to replace the or with a &&.
 
 /*
 let temp = 40;
